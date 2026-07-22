@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">EDI documents</title>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0d1d2e" stroke="rgba(108,231,245,0.25)"/>
+  <g fill="none" stroke="#6ce7f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <path d="M15 11h21l9 9v33H15z"/>
+    <path d="M36 11v10h10"/>
+    <path d="M22 31h17M22 39h14"/>
+    <path d="m47 35 7 5-7 5"/>
+    <path d="M54 40H39"/>
+    
+  </g>
+</svg>

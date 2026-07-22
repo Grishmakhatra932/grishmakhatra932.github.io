@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">SQL and data</title>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0d1d2e" stroke="rgba(108,231,245,0.25)"/>
+  <g fill="none" stroke="#6ce7f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <ellipse cx="30" cy="15" rx="17" ry="7"/>
+    <path d="M13 15v13c0 4 8 7 17 7s17-3 17-7V15"/>
+    <path d="M13 28v13c0 4 8 7 17 7 3 0 6-.3 8-1"/>
+    <circle cx="47" cy="45" r="9"/>
+    <path d="m53 51 6 6"/>
+    
+  </g>
+</svg>

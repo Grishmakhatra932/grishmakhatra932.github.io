@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Implementation and operations</title>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0d1d2e" stroke="rgba(108,231,245,0.25)"/>
+  <g fill="none" stroke="#6ce7f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <circle cx="26" cy="30" r="10"/>
+    <path d="M26 13v5M26 42v5M9 30h5M38 30h5M14 18l4 4M34 38l4 4M38 18l-4 4M18 38l-4 4"/>
+    <path d="m39 47 5 5 11-13"/>
+    
+  </g>
+</svg>

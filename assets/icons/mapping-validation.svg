@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Mapping and validation</title>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0d1d2e" stroke="rgba(108,231,245,0.25)"/>
+  <g fill="none" stroke="#6ce7f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <rect x="8" y="11" width="19" height="42" rx="4"/>
+    <rect x="37" y="11" width="19" height="42" rx="4"/>
+    <path d="M15 21h6M15 31h6M15 41h6"/>
+    <path d="M43 21h6M43 31h6M43 41h6"/>
+    <path d="M27 24h10M27 40h10"/>
+    <path d="m31 20 6 4-6 4M33 36l-6 4 6 4"/>
+    
+  </g>
+</svg>

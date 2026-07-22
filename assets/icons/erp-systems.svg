@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ERP systems</title>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0d1d2e" stroke="rgba(108,231,245,0.25)"/>
+  <g fill="none" stroke="#6ce7f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    
+    <ellipse cx="32" cy="15" rx="16" ry="7"/>
+    <path d="M16 15v12c0 4 7 7 16 7s16-3 16-7V15"/>
+    <path d="M16 27v12c0 4 7 7 16 7s16-3 16-7V27"/>
+    <path d="M16 39v10c0 4 7 7 16 7s16-3 16-7V39"/>
+    
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ERP systems">
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0f2234" stroke="rgba(114,232,245,.25)"/>
+  <g fill="none" stroke="#72e8f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="32" cy="15" rx="17" ry="7"/><path d="M15 15v14c0 4 8 7 17 7s17-3 17-7V15M15 29v14c0 4 8 7 17 7s17-3 17-7V29"/>
+  </g>
+</svg>

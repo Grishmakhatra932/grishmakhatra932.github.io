@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="API integration">
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0f2234" stroke="rgba(114,232,245,.25)"/>
+  <g fill="none" stroke="#72e8f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 20 8 32l10 12M46 20l10 12-10 12M38 13 26 51"/>
+  </g>
+</svg>

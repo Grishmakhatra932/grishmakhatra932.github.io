@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EDI documents">
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#0f2234" stroke="rgba(114,232,245,.25)"/>
+  <g fill="none" stroke="#72e8f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 10h22l10 10v34H15zM37 10v11h11M22 31h18M22 40h13"/>
+  </g>
+</svg>
